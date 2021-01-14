@@ -1,0 +1,5 @@
+com/kelaskoding/model/User.class
+com/kelaskoding/rest/UserController.class
+com/kelaskoding/rest/ApplicationConfig.class
+com/kelaskoding/utilty/LoadDatasource.class
+com/kelaskoding/repo/UserRepository.class
